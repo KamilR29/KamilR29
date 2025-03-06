@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Kamil Rączkowski
+![black-cat-gif-2](https://github.com/user-attachments/assets/e593bdd5-2adf-438f-9c41-99d04ab74278)
 
 ## 🚀 About Me
 I am a **fourth-year Computer Science student** specializing in **AI Systems** at the **Polish-Japanese Academy of Information Technology**. Passionate about **software development, machine learning, and AI**, I continuously expand my knowledge through studies, projects, and self-learning. 
