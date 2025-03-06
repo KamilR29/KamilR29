@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kamil Rączkowski
+# Hi, I'm Kamil Rączkowski
 ![1da3d47bcfe7793ee52cafc73b5c753a](https://github.com/user-attachments/assets/270e302a-9266-4213-81d5-fab352ce9dce)
 
 
