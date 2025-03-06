@@ -36,15 +36,15 @@ I am also experienced in **full-stack development, AI systems**, with expertise 
 
 ### 🔹 [House Price Prediction](https://github.com/KamilR29/HousePricePrediction)
 **AI model for predicting house prices** using:
-- **Machine Learning**: Python, Autogluoan
-- **Frontend** Streamlit
-
-### 🔹 [EnergyForecast](https://github.com/KamilR29/EnergyForecast)
-**AI model for predicting house prices** using:
 - **Machine Learning**: Python, TensorFlow, scikit-learn
 - **CI/CD**: GitHub Actions, Docker
 
-### 🔹 [Booking Application](https://github.com/KamilR29/FlightBookingAplication)
+### 🔹 [Energy Forecast](https://github.com/KamilR29/EnergyForecast)
+**AI model for predicting house prices** using:
+- **Machine Learning**: Python, Autogluoan
+- **Frontend** Streamlit
+
+### 🔹 [Flight Booking Application](https://github.com/KamilR29/FlightBookingAplication)
 **Full-stack flight booking system** built with:
 - **Backend**: Java (Spring Boot), MySQL
 - **Frontend**: React
