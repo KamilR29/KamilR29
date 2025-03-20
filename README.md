@@ -1,8 +1,10 @@
 # Hi, I'm Kamil Rączkowski
-![giphy (1)](https://github.com/user-attachments/assets/a8c4276c-c22f-47b9-ab44-95f94d5d76b7)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/a8c4276c-c22f-47b9-ab44-95f94d5d76b7" width="300"/>
+</p>
 
 ## 🚀 About Me
-I am a **fourth-year Computer Science student** specializing in **AI Systems** at the **Polish-Japanese Academy of Information Technology**. Passionate about **software development, machine learning, and AI**, I continuously expand my knowledge through studies, projects, and self-learning. 
+I am a **fourth-year Computer Science student** specializing in **AI Systems** at the **Polish-Japanese Academy of Information Technology**. Passionate about **software development, machine learning, and AI**, I continuously expand my knowledge through studies, projects, and self-learning.
 
 Currently, I work as a **QA Specialist - Manual Tester**, where I design and execute tests, create test cases, and collaborate in **Agile/Scrum** teams to ensure software quality.
 
