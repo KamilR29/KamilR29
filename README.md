@@ -44,7 +44,7 @@ I am also experienced in **full-stack development, AI systems**, with expertise 
 
 ### 🔹 [Energy Forecast](https://github.com/KamilR29/EnergyForecast)
 **AI model for predicting house prices** using:
-- **Machine Learning**: Python, Autogluoan
+- **Machine Learning**: Python, Autogluon
 - **Frontend** Streamlit
 
 ### 🔹 [Flight Booking Application](https://github.com/KamilR29/FlightBookingAplication)
