@@ -53,7 +53,7 @@ I am also experienced in **full-stack development, AI systems**, with expertise 
 - **Frontend**: React
 
 ---
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
 
 ## 🎓 Education (Bachelor of Engineering)
 🎓 **Polish-Japanese Academy of Information Technology** (2021 - 2025)  
