@@ -19,5 +19,5 @@ I completed my engineering degree in **Data Science** with a specialization in *
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:kamil.rac29@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/KamilR29"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://kamilr29.github.io/#hero"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
