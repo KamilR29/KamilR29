@@ -1,18 +1,20 @@
-<h1>Hi, I'm Kamil Rączkowski</h1>
+<h3>Hi, I'm Kamil Rączkowski</h3>
 
-## About Me
+
 
 <img align="right" width="340" src="https://github.com/user-attachments/assets/a8c4276c-c22f-47b9-ab44-95f94d5d76b7"/>
 
 
-I am a **Junior Test Automation & GenAI Engineer**. In my work, I focus on building **AI-based testing solutions** and other **AI-related projects**, combining quality engineering with modern AI tooling.
+As a Business Architecture Senior Analyst at Accenture, I design and deliver multi-agent AI systems for enterprise clients. I own the full delivery process, from architecture through documentation and testing to production deployment.
 
-I completed my engineering degree in **Data Science** with a specialization in **AI Systems**, and I am currently finishing my **master's degree** in the same field. Through my studies, online courses and self-directed projects, I continuously expand my knowledge and sharpen my ability to write clean and efficient code. In my work I value diligence, reliability and delivering results I can stand behind.
+My experience spans test automation, backend development and AI/ML. This lets me combine software quality expertise with modern GenAI tooling to deliver solutions that are stable, well-documented and production-ready.
+
+I graduated from the Polish-Japanese Academy of Information Technology with engineering and master's degrees in Data Science, specializing in AI Systems.
 
 <br clear="right"/>
 
 
-<h2>Get in Touch</h2>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kamil-r%C4%85czkowski-056600192/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
